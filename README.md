@@ -1,4 +1,4 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
+  Portfolio Rihem Hassouna<br/>
   <a href="/" target="_blank">Rihem</a>
 </h2>
